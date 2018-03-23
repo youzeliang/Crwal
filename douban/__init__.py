@@ -16,6 +16,7 @@ class Test:
         self.root_folder = '/users/wangzheng/Downloads/mmJPG/'
 
         # 指明解码方式
+        # d
         reload(sys)
         sys.setdefaultencoding('utf-8')
 
