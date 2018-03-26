@@ -9,6 +9,10 @@ age = 1
 if age < 3:
     print ("ff")
 
-input()
-print ("fd")
-print("fdfd")
+
+sum = 0
+for x in [1,2,3,4,5,66,7]:
+    print(x)
+
+
+print(list(range(7)))
